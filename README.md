@@ -15,3 +15,6 @@ A machine learning-powered full-stack web app using FastAPI (Python backend) and
 - Scikit-learn, Pandas
 - React, Axios
 - MySQL (optional)
+
+![image alt](https://github.com/SyrineLarbi/house-price-predictor/blob/669483563601511da4e873cf65c0670fb60e57e5/demo.jpg)
+
